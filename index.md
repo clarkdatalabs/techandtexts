@@ -36,19 +36,19 @@ PDFs of all of the readings are available. Please register by filling out [this 
 [MALLET](http://mallet.cs.umass.edu/){:target="_blank"} (download and review [tutorial slides](http://mallet.cs.umass.edu/mallet-tutorial.pdf){:target="_blank"})
 
 #### November 29th - A Case Study in Neo-structuralism
-Derrida, Jacques. "Structure, sign, and play in the discourse of the human sciences." A postmodern reader (1993): 223-242.
+[Derrida, Jacques. "Structure, sign, and play in the discourse of the human sciences." A postmodern reader (1993): 223-242.](http://www.csudh.edu/ccauthen/576f13/DrrdaSSP.pdf){:target="_blank"}
 
 In 2015, Matt Jockers released an R package, syuzhet, for sentiment analysis and plot detection. The links below outline the project and some back and forth between him and Annie Swafford who offers a nuanced technological critique of the work. The comments on some of these are worth reading as well:
 
-http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/
+[http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/){:target="_blank"}
 
-https://annieswafford.wordpress.com/2015/03/02/syuzhet/
+[https://annieswafford.wordpress.com/2015/03/02/syuzhet/](https://annieswafford.wordpress.com/2015/03/02/syuzhet/){:target="_blank"}
 
-http://www.matthewjockers.net/2015/03/04/some-thoughts-on-annies-thoughts-about-syuzhet/
+[http://www.matthewjockers.net/2015/03/04/some-thoughts-on-annies-thoughts-about-syuzhet/](http://www.matthewjockers.net/2015/03/04/some-thoughts-on-annies-thoughts-about-syuzhet/){:target="_blank"}
 
-https://annieswafford.wordpress.com/2015/03/07/continuingsyuzhet/
+[https://annieswafford.wordpress.com/2015/03/07/continuingsyuzhet/](https://annieswafford.wordpress.com/2015/03/07/continuingsyuzhet/){:target="_blank"}
 
 #### December 13th - Natural Language Toolkit (NLTK) and Stanford Natural Language Processing Group’s Named Entity Recognizer (NER)
-NLTK (install [make sure you have python installed as well] and browse Natural Language Processing with Python)
-Stanford NER (download or explore the online demo)
+[NLTK](http://www.nltk.org/){:target="_blank"} ([install](http://www.nltk.org/install.html){:target="_blank"} [make sure you have python installed as well] and browse [Natural Language Processing with Python](http://www.nltk.org/book/){:target="_blank"})
+[Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml){:target="_blank"} (download or explore the online demo)
 
