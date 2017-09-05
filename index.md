@@ -6,19 +6,19 @@ PDFs of all of the readings are available. Please register by filling out [this 
 
 # Fall_2017 Schedule:
 
-### September 20th - Overviews: Bookworm and Google Ngram Viewer
-HathiTrust Research Center Bookworm
-Google Ngram Viewer
-Zhang, Sarah. “The Pitfalls of Using Google Ngram to Study Language,” Wired October 12, 2015.
+#### September 20th - Overviews: Bookworm and Google Ngram Viewer
+[HathiTrust Research Center Bookworm](https://analytics.hathitrust.org/bookworm){:target="_blank"}
+[Google Ngram Viewer](https://books.google.com/ngrams){:target="_blank"}
+[Zhang, Sarah. “The Pitfalls of Using Google Ngram to Study Language,” Wired October 12, 2015.](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/){:target="_blank"}
 
 ### October 4th - Introductions to Text Analysis
-Best, Stephen, and Sharon Marcus. "Surface reading: An introduction." Representations 108, no. 1 (2009): 1-21.
-Moretti, Franco. "Conjectures on world literature." New Left Review 1 (2000): 54.
+[Best, Stephen, and Sharon Marcus. "Surface reading: An introduction." Representations 108, no. 1 (2009): 1-21.](){:target="_blank"}
+[Moretti, Franco. "Conjectures on world literature." New Left Review 1 (2000): 54.](){:target="_blank"}
 Žižek, Slavoj. The sublime object of ideology. Verso, 1989.
 
 ### October 18th - Digging into texts: Voyant and AntConc
-Voyant (review documentation)
-AntConc (download prior to session and review help page)
+[Voyant (review documentation)](){:target="_blank"}
+[AntConc (download prior to session and review help page)]](){:target="_blank"}
 
 ### November 1st - Macroanalysis and Topic Modeling
 Goldstone, Andrew, and Ted Underwood. "The quiet transformations of literary studies: What thirteen thousand scholars could tell us." New Literary History 45, no. 3 (2014): 359-384.
