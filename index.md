@@ -14,13 +14,15 @@ PDFs of all of the readings are available. Please register by filling out [this 
 [Zhang, Sarah. “The Pitfalls of Using Google Ngram to Study Language,” Wired October 12, 2015.](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/){:target="_blank"}
 
 ### October 4th - Introductions to Text Analysis
-[Best, Stephen, and Sharon Marcus. "Surface reading: An introduction." Representations 108, no. 1 (2009): 1-21.](){:target="_blank"}
-[Moretti, Franco. "Conjectures on world literature." New Left Review 1 (2000): 54.](){:target="_blank"}
+[Best, Stephen, and Sharon Marcus. "Surface reading: An introduction." Representations 108, no. 1 (2009): 1-21.](http://www.jstor.org/stable/10.1525/rep.2009.108.1.1){:target="_blank"}
+
+[Moretti, Franco. "Conjectures on world literature." New Left Review 1 (2000): 54.](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature){:target="_blank"}
+
 Žižek, Slavoj. The sublime object of ideology. Verso, 1989.
 
 ### October 18th - Digging into texts: Voyant and AntConc
-[Voyant (review documentation)](){:target="_blank"}
-[AntConc (download prior to session and review help page)]](){:target="_blank"}
+[Voyant](https://voyant-tools.org/){:target="_blank"}(review documentation)
+[AntConc](http://www.laurenceanthony.net/software/antconc/){:target="_blank"}(download prior to session and review help page)
 
 ### November 1st - Macroanalysis and Topic Modeling
 Goldstone, Andrew, and Ted Underwood. "The quiet transformations of literary studies: What thirteen thousand scholars could tell us." New Literary History 45, no. 3 (2014): 359-384.
