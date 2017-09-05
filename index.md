@@ -8,7 +8,9 @@ PDFs of all of the readings are available. Please register by filling out [this 
 
 #### September 20th - Overviews: Bookworm and Google Ngram Viewer
 [HathiTrust Research Center Bookworm](https://analytics.hathitrust.org/bookworm){:target="_blank"}
+
 [Google Ngram Viewer](https://books.google.com/ngrams){:target="_blank"}
+
 [Zhang, Sarah. “The Pitfalls of Using Google Ngram to Study Language,” Wired October 12, 2015.](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/){:target="_blank"}
 
 ### October 4th - Introductions to Text Analysis
