@@ -27,7 +27,9 @@ PDFs of all of the readings are available. Please register by filling out [this 
 
 #### November 1st - Macroanalysis and Topic Modeling
 Goldstone, Andrew, and Ted Underwood. "The quiet transformations of literary studies: What thirteen thousand scholars could tell us." New Literary History 45, no. 3 (2014): 359-384.
+
 Rhody, Lisa Marie. "Why I Dig: Feminist Approaches to Text Analysis." Debates in the Digital Humanities.
+
 Starosielski, Nicole. "Orientation:“Man and His Tool, Again?”." Digital Humanities Quarterly 9, no. 2 (2015).
 
 #### November 15th - MALLET (MAchine Learning for LanguagE Toolkit)
@@ -37,11 +39,14 @@ MALLET (download and review tutorial slides)
 Derrida, Jacques. "Structure, sign, and play in the discourse of the human sciences." A postmodern reader (1993): 223-242.
 
 In 2015, Matt Jockers released an R package, syuzhet, for sentiment analysis and plot detection. The links below outline the project and some back and forth between him and Annie Swafford who offers a nuanced technological critique of the work. The comments on some of these are worth reading as well:
-http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/
-https://annieswafford.wordpress.com/2015/03/02/syuzhet/
-http://www.matthewjockers.net/2015/03/04/some-thoughts-on-annies-thoughts-about-syuzhet/
-https://annieswafford.wordpress.com/2015/03/07/continuingsyuzhet/
 
+http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/
+
+https://annieswafford.wordpress.com/2015/03/02/syuzhet/
+
+http://www.matthewjockers.net/2015/03/04/some-thoughts-on-annies-thoughts-about-syuzhet/
+
+https://annieswafford.wordpress.com/2015/03/07/continuingsyuzhet/
 
 #### December 13th - Natural Language Toolkit (NLTK) and Stanford Natural Language Processing Group’s Named Entity Recognizer (NER)
 NLTK (install [make sure you have python installed as well] and browse Natural Language Processing with Python)
