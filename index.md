@@ -13,26 +13,27 @@ PDFs of all of the readings are available. Please register by filling out [this 
 
 [Zhang, Sarah. “The Pitfalls of Using Google Ngram to Study Language,” Wired October 12, 2015.](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/){:target="_blank"}
 
-### October 4th - Introductions to Text Analysis
+#### October 4th - Introductions to Text Analysis
 [Best, Stephen, and Sharon Marcus. "Surface reading: An introduction." Representations 108, no. 1 (2009): 1-21.](http://www.jstor.org/stable/10.1525/rep.2009.108.1.1){:target="_blank"}
 
 [Moretti, Franco. "Conjectures on world literature." New Left Review 1 (2000): 54.](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature){:target="_blank"}
 
 Žižek, Slavoj. The sublime object of ideology. Verso, 1989.
 
-### October 18th - Digging into texts: Voyant and AntConc
+#### October 18th - Digging into texts: Voyant and AntConc
 [Voyant](https://voyant-tools.org/){:target="_blank"}(review documentation)
+
 [AntConc](http://www.laurenceanthony.net/software/antconc/){:target="_blank"}(download prior to session and review help page)
 
-### November 1st - Macroanalysis and Topic Modeling
+#### November 1st - Macroanalysis and Topic Modeling
 Goldstone, Andrew, and Ted Underwood. "The quiet transformations of literary studies: What thirteen thousand scholars could tell us." New Literary History 45, no. 3 (2014): 359-384.
 Rhody, Lisa Marie. "Why I Dig: Feminist Approaches to Text Analysis." Debates in the Digital Humanities.
 Starosielski, Nicole. "Orientation:“Man and His Tool, Again?”." Digital Humanities Quarterly 9, no. 2 (2015).
 
-### November 15th - MALLET (MAchine Learning for LanguagE Toolkit)
+#### November 15th - MALLET (MAchine Learning for LanguagE Toolkit)
 MALLET (download and review tutorial slides)
 
-### November 29th - A Case Study in Neo-structuralism
+#### November 29th - A Case Study in Neo-structuralism
 Derrida, Jacques. "Structure, sign, and play in the discourse of the human sciences." A postmodern reader (1993): 223-242.
 
 In 2015, Matt Jockers released an R package, syuzhet, for sentiment analysis and plot detection. The links below outline the project and some back and forth between him and Annie Swafford who offers a nuanced technological critique of the work. The comments on some of these are worth reading as well:
@@ -42,7 +43,7 @@ http://www.matthewjockers.net/2015/03/04/some-thoughts-on-annies-thoughts-about-
 https://annieswafford.wordpress.com/2015/03/07/continuingsyuzhet/
 
 
-### December 13th - Natural Language Toolkit (NLTK) and Stanford Natural Language Processing Group’s Named Entity Recognizer (NER)
+#### December 13th - Natural Language Toolkit (NLTK) and Stanford Natural Language Processing Group’s Named Entity Recognizer (NER)
 NLTK (install [make sure you have python installed as well] and browse Natural Language Processing with Python)
 Stanford NER (download or explore the online demo)
 
