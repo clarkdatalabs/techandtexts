@@ -38,7 +38,7 @@ http://www.matthewjockers.net/2015/03/04/some-thoughts-on-annies-thoughts-about-
 https://annieswafford.wordpress.com/2015/03/07/continuingsyuzhet/
 
 
-##ecember 13th - Natural Language Toolkit (NLTK) and Stanford Natural Language Processing Group’s Named Entity Recognizer (NER)
+##December 13th - Natural Language Toolkit (NLTK) and Stanford Natural Language Processing Group’s Named Entity Recognizer (NER)
 NLTK (install [make sure you have python installed as well] and browse Natural Language Processing with Python)
 Stanford NER (download or explore the online demo)
 
