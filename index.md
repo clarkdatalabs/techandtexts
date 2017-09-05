@@ -26,14 +26,14 @@ PDFs of all of the readings are available. Please register by filling out [this 
 [AntConc](http://www.laurenceanthony.net/software/antconc/){:target="_blank"} (download prior to session and review [help page](http://www.laurenceanthony.net/software/antconc/releases/AntConc344/help.pdf){:target="_blank"})
 
 #### November 1st - Macroanalysis and Topic Modeling
-Goldstone, Andrew, and Ted Underwood. "The quiet transformations of literary studies: What thirteen thousand scholars could tell us." New Literary History 45, no. 3 (2014): 359-384.
+[Goldstone, Andrew, and Ted Underwood. "The quiet transformations of literary studies: What thirteen thousand scholars could tell us." New Literary History 45, no. 3 (2014): 359-384.](http://www.rci.rutgers.edu/~ag978/quiet/preprint.pdf){:target="_blank"}
 
-Rhody, Lisa Marie. "Why I Dig: Feminist Approaches to Text Analysis." Debates in the Digital Humanities.
+[Rhody, Lisa Marie. "Why I Dig: Feminist Approaches to Text Analysis." Debates in the Digital Humanities.](http://dhdebates.gc.cuny.edu/debates/text/97){:target="_blank"}
 
-Starosielski, Nicole. "Orientation:“Man and His Tool, Again?”." Digital Humanities Quarterly 9, no. 2 (2015).
+[Starosielski, Nicole. "Orientation:“Man and His Tool, Again?”." Digital Humanities Quarterly 9, no. 2 (2015).](http://www.digitalhumanities.org/dhq/vol/9/2/000211/000211.html){:target="_blank"}
 
 #### November 15th - MALLET (MAchine Learning for LanguagE Toolkit)
-MALLET (download and review tutorial slides)
+[MALLET](http://mallet.cs.umass.edu/){:target="_blank"} (download and review [tutorial slides](http://mallet.cs.umass.edu/mallet-tutorial.pdf){:target="_blank"})
 
 #### November 29th - A Case Study in Neo-structuralism
 Derrida, Jacques. "Structure, sign, and play in the discourse of the human sciences." A postmodern reader (1993): 223-242.
