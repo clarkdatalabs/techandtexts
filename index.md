@@ -2,8 +2,7 @@ Tech and Texts is an open seminar/workshop hosted by the University of Michigan 
 
 Meetings are open to anyone at any skill level. It is not necessary to attend all meetings; please join us as you have time and interest. The text discussions will include a brief introduction to the reading. Tech explorations will be an open format for experimentation and shared learning (please bring a laptop). If you have any questions about the series you can contact Justin Joque (joque@umich.edu) or Alix Keener (alixkee@umich.edu).
 
-PDFs of all of the readings are available. Please register by filling out this form and we will give you access to download them.
-
+PDFs of all of the readings are available. Please register by filling out this form and we will give you access to download them. Last years schedule is available [here](https://docs.google.com/forms/d/e/1FAIpQLSdgnz1XNqmNPU8nAVzMtOXturYoOIHBukKJV-KHuYrnFUSwDQ/viewform).
 
 Fall_2017 Schedule:
 
