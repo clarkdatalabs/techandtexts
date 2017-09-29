@@ -18,7 +18,7 @@ PDFs of all of the readings are available. Please register by filling out [this 
 
 [Moretti, Franco. "Conjectures on world literature." New Left Review 1 (2000): 54.](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature){:target="_blank"}
 
-Selection from: Žižek, Slavoj. The sublime object of ideology. Verso, 1989.
+Selection from: Žižek, Slavoj. The sublime object of ideology. Verso, 1989: 3-16.
 
 #### October 18th - Digging into texts: Voyant and AntConc
 [Voyant](https://voyant-tools.org/){:target="_blank"} (review [documentation](https://voyant-tools.org/docs/){:target="_blank"})
