@@ -33,5 +33,6 @@ Census Data Sets and rperesentation
 
 #### November 23, Text: Thanksgiving Recess
 
+
 #### December 7, Tech and Text: Reflections and Sharing
 
