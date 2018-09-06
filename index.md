@@ -1,5 +1,3 @@
-# Maps and Mapmaking
-
 The 2018-19 Tech and Text series on “Maps and Mapmaking” acknowledges the institutional use of the traditional unceded territories of the Three Fires Peoples - the Ojibwe, Odawa, and Potawatomi. We commit to creating a space where we can collectively begin to challenge the representations and continuing impacts of colonial mapmaking. This series is conceived of as a discussion series to explore the technologies and texts of mapping our histories and everyday cultures. 
 
 We will meet every other Friday from 1:00 pm to 2:30 pm in Clark Library Instructional Space (2 South Hatcher). Meetings are open to everyone, at any skill level, and from any disciplinary background. It is not necessary to attend all meetings; please join us as you have time and interest. The text discussions will include a brief introduction to assigned readings. Tech explorations will be an open format for experimentation and shared learning (please bring a laptop). If you have any questions about the series you can contact Justin Joque (joque@umich.edu), Anne Cong-Huyen (annech@umich.edu), or Kush Patel (kshpatel@umich.edu). 
@@ -17,7 +15,7 @@ Explore pedagogical methods that integrate the texts and technologies of represe
 
 # Fall_2018 Schedule:
 
-The bimonthly schedule will alternate between tech explorations and text-based discussions. PDFs and web-based links of all readings are available. Please register by filling out [this form]() and we will give you access to download them.
+The bimonthly schedule will alternate between tech explorations and text-based discussions. PDFs and web-based links of all readings are available. Please register by filling out [this form](https://docs.google.com/forms/d/1BcKP4a6r6iGmy4482GwMcRFMblXql5zaXT3R2nJgen8/) and we will give you access to download items that are not publicly available.
 
 #### September 14, Tech: Representing Spatial Data in Databases
 Finding, reading, doing stuff with data, shapefiles, .csv, JSON
@@ -30,7 +28,7 @@ Pickles, John. "Representations in an electronic age: Geography, GIS, and democr
 Ahmet, T. Karamustafa. "Introduction to Islamic maps'." Harley and Woodward, The History of Cartography, Volume Two, Book Two, 5.
 
 #### October 12, Tech: Social Explorer 
-Census Data Sets and rperesentation
+Census Data Sets and representation
 
 #### October 26, Text: Counter-Mapping
 [Dee Morris and Stephen Voyce, “William Bunge, The Detroit Geographical Expedition and Institute (DGEI), & Radical Cartography,” Jacket 2 (March 20, 2015)](http://jacket2.org/commentary/william-bunge-dgei-radical-cartography){:target="_blank"} 
