@@ -32,6 +32,6 @@ Census Data Sets and rperesentation
 [download and install QGIS prior to the meeting](https://qgis.org/en/site/){:target="_blank"}
 
 #### November 23, Thanksgiving Recess
-
+####
 #### December 7, Tech and Text: Reflections and Sharing
 
