@@ -1,10 +1,14 @@
-Tech and Texts is an open seminar/workshop hosted by the University of Michigan Library to explore applied technology and theory. This semester our focus will be on text analysis. Over the course of the Fall 2017 semester we will meet every other Wednesday from 10:30am - 12:00pm to discuss, explore and experiment with various computational textual analysis technologies and theoretical texts. Meetings will be held in the Clark Library Presentation Space (2 South Hatcher).
+The 2018-19 Tech and Text series on “Maps and Mapmaking” acknowledges the institutional use of the territories of the Three Fires Peoples - the Ojibwe, Odawa, and Potawatomi. We commit to creating a space where we can collectively begin to challenge the representations and continuing impacts of colonial mapmaking. This series is conceived of as a discussion series to explore the technologies and texts of mapping our histories and everyday cultures. 
 
-Meetings are open to anyone at any skill level. It is not necessary to attend all meetings; please join us as you have time and interest. The text discussions will include a brief introduction to the reading. Tech explorations will be an open format for experimentation and shared learning (please bring a laptop). If you have any questions about the series you can contact Justin Joque ([joque@umich.edu](mailto:joque@umich.edu)) or Alix Keener ([alixkee@umich.edu](mailto:alixkee@umich.edu)).
+We will meet every other Friday from 1:00 pm to 2:30 pm in Clark Library Instructional Space (2 South Hatcher). Meetings are open to everyone, at any skill level, and from any disciplinary background. It is not necessary to attend all meetings; please join us as you have time and interest. The text discussions will include a brief introduction to assigned readings. Tech explorations will be an open format for experimentation and shared learning (please bring a laptop). If you have any questions about the series you can contact Justin Joque (joque@umich.edu), Anne Cong-Huyen (annech@umich.edu), or Kush Patel (kshpatel@umich.edu). 
 
-PDFs of all of the readings are available. Please register by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdgnz1XNqmNPU8nAVzMtOXturYoOIHBukKJV-KHuYrnFUSwDQ/viewform){:target="_blank"} and we will give you access to download them. [Last years schedule is available here](https://clarkdatalabs.github.io/techandtexts/fall_2016){:target="_blank"}.
+The schedule for [Fall 2017 is available here](https://clarkdatalabs.github.io/techandtexts/fall_2017){:target="_blank"} and the schedule for [Fall 2016 is available here](https://clarkdatalabs.github.io/techandtexts/fall_2016){:target="_blank"}.
 
-# Fall_2017 Schedule:
+Participation in this series can count towards the practice-oriented requirement of LSA Digital Studies Graduate Certificate. For more information on the certificate program, please visit the following website: [https://lsa.umich.edu/digitalstudies/graduates/admissions.html](https://lsa.umich.edu/digitalstudies/graduates/admissions.html){:target="_blank"}
+
+Participation in this working group can also help participants develop content for a digital portfolio or related artefacts towards the Requirement 'J' of the CRLT Graduate Teacher Plus Certificate in Digital Media (GTC+). For more information about the teaching certificate, please visit: [http://www.crlt.umich.edu/cert/dm](http://www.crlt.umich.edu/cert/dm){:target="_blank"}.
+
+# Fall_2018 Schedule:
 
 #### September 20th - Overviews: Bookworm and Google Ngram Viewer
 [HathiTrust Research Center Bookworm](https://analytics.hathitrust.org/bookworm){:target="_blank"}
