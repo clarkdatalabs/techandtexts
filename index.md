@@ -1,3 +1,5 @@
+# Maps and Mapmaking
+
 The 2018-19 Tech and Text series on “Maps and Mapmaking” acknowledges the institutional use of the traditional unceded territories of the Three Fires Peoples - the Ojibwe, Odawa, and Potawatomi. We commit to creating a space where we can collectively begin to challenge the representations and continuing impacts of colonial mapmaking. This series is conceived of as a discussion series to explore the technologies and texts of mapping our histories and everyday cultures. 
 
 We will meet every other Friday from 1:00 pm to 2:30 pm in Clark Library Instructional Space (2 South Hatcher). Meetings are open to everyone, at any skill level, and from any disciplinary background. It is not necessary to attend all meetings; please join us as you have time and interest. The text discussions will include a brief introduction to assigned readings. Tech explorations will be an open format for experimentation and shared learning (please bring a laptop). If you have any questions about the series you can contact Justin Joque (joque@umich.edu), Anne Cong-Huyen (annech@umich.edu), or Kush Patel (kshpatel@umich.edu). 
