@@ -31,8 +31,7 @@ Census Data Sets and rperesentation
 #### November 9, Tech: QGIS - Joining Tables to Geography using QGIS
 [download and install QGIS prior to the meeting](https://qgis.org/en/site/){:target="_blank"}
 
-#### November 23, Text: Thanksgiving Recess
-
+#### November 23, Thanksgiving Recess
 
 #### December 7, Tech and Text: Reflections and Sharing
 
