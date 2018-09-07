@@ -2,7 +2,7 @@ The 2018-19 Tech and Text series on “Maps and Mapmaking” acknowledges the in
 
 We will meet every other Friday from 1:00 pm to 2:30 pm in Clark Library Instructional Space (2 South Hatcher). Meetings are open to everyone, at any skill level, and from any disciplinary background. It is not necessary to attend all meetings; please join us as you have time and interest. The text discussions will include a brief introduction to assigned readings. Tech explorations will be an open format for experimentation and shared learning (please bring a laptop). If you have any questions about the series you can contact Justin Joque (joque@umich.edu), Anne Cong-Huyen (annech@umich.edu), or Kush Patel (kshpatel@umich.edu). 
 
-The schedule for [Fall 2017 is available here](https://clarkdatalabs.github.io/techandtexts/fall_2017){:target="_blank"} and the schedule for [Fall 2016 is available here](https://clarkdatalabs.github.io/techandtexts/fall_2016){:target="_blank"}.
+The schedule for [Fall 2017 is available here](https://clarkdatalabs.github.io/techandtexts/fall2017){:target="_blank"} and the schedule for [Fall 2016 is available here](https://clarkdatalabs.github.io/techandtexts/fall_2016){:target="_blank"}.
 
 Participation in this series can count towards the practice-oriented requirement of LSA Digital Studies Graduate Certificate. For more information on the certificate program, please visit the following website: [https://lsa.umich.edu/digitalstudies/graduates/admissions.html](https://lsa.umich.edu/digitalstudies/graduates/admissions.html){:target="_blank"}
 
@@ -15,7 +15,7 @@ Explore pedagogical methods that integrate the texts and technologies of represe
 
 # Fall_2018 Schedule:
 
-The bimonthly schedule will alternate between tech explorations and text-based discussions. PDFs and web-based links of all readings are available. Please register by filling out [this form](https://docs.google.com/forms/d/1BcKP4a6r6iGmy4482GwMcRFMblXql5zaXT3R2nJgen8/) and we will give you access to download items that are not publicly available.
+The bimonthly schedule will alternate between tech explorations and text-based discussions. PDFs and web-based links of all readings are available. Please register by filling out [this form](https://docs.google.com/forms/d/1BcKP4a6r6iGmy4482GwMcRFMblXql5zaXT3R2nJgen8/){:target="_blank"} and we will give you access to download items that are not publicly available.
 
 #### September 14, Tech: Representing Spatial Data in Databases
 Finding, reading, doing stuff with data, shapefiles, .csv, JSON
