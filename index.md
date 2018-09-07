@@ -9,9 +9,9 @@ Participation in this series can count towards the practice-oriented requirement
 Participation in this working group can also help participants develop content for a digital portfolio or related artefacts towards the Requirement 'J' of the CRLT Graduate Teacher Plus Certificate in Digital Media (GTC+). For more information about the teaching certificate, please visit: [http://www.crlt.umich.edu/cert/dm](http://www.crlt.umich.edu/cert/dm){:target="_blank"}.
 
 ### Participant Learning Goals: 
-- Develop familiarity and comfort with mapping tools and critical methods.
-- Find and build community around anti-colonial critiques and uses of mapmaking.
-- Explore pedagogical methods that integrate the texts and technologies of representing data 
+* Develop familiarity and comfort with mapping tools and critical methods.
+* Find and build community around anti-colonial critiques and uses of mapmaking.
+* Explore pedagogical methods that integrate the texts and technologies of representing data 
 
 # Fall_2018 Schedule:
 
