@@ -23,7 +23,7 @@ Finding, reading, doing stuff with data, shapefiles, .csv, JSON
 #### September 28, Text: Digital Mapping and its Antecedents
 Short excerpt from Tufte, Edward, and P. Graves-Morris. "The Visual Display of Quantitative Information.; 1983." (2014).
 
-Pickles, John. "Representations in an electronic age: Geography, GIS, and democracy." Praxis (e) Press, 2008.
+Pickles, John. "Representations in an electronic age: Geography, GIS, and democracy." Guilford Press, 1995.
 
 Ahmet, T. Karamustafa. "Introduction to Islamic maps'." Harley and Woodward, The History of Cartography, Volume Two, Book Two, 5.
 
